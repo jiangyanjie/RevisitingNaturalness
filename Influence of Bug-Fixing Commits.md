@@ -6,6 +6,10 @@ Following Ray et al.[51], in this section we investigate how bug-fixing commits 
 
 **Results and Analysis**
 
+![](https://github.com/jiangyanjie/RevisitingNaturalness/blob/main/Fig/table8.png)
+![](https://github.com/jiangyanjie/RevisitingNaturalness/blob/main/Fig/fig9.png)
+![](https://github.com/jiangyanjie/RevisitingNaturalness/blob/main/Fig/Fig10.png)
+
 The results are presented in Table 8, Figure 9, and Figure 10. From these table and figures, we make the following observations.
 
 - Potential Buggy lines are less natural, i.e., with higher entropy than bug-free ones. On Defects4J, the average entropy of buggy lines is 0.22, substantially higher than that (0.00169) of bug-free lines. On GrowingBugs, the average line entropy of buggy lines is 0.24, substantially higher than that (0.00238) of bug-free lines, too.
